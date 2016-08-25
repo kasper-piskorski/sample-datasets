@@ -1,1 +1,1 @@
-# Example Datasets for MindmapsDB
+# Sample Graql Datasets for MindmapsDB
