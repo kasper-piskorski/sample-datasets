@@ -26,4 +26,4 @@ curl -H "Content-Type: application/json" -X POST -d '{"path":"/PATH/TO/3_binary_
 
 If everything went well, you will be able to query you new dataset.
 
-![Example Query](../images/movie_query.png)
+![Example Query](/img/movie_query.png)
