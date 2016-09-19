@@ -1,3 +1,4 @@
+insert
 (  actor '010f892d-8b22-47a6-8469-065e3872809a', character-being-played '00987b1d-33e2-4c70-9731-34b16b2c5f37' , production-with-cast 'fa1c69fd-e97f-44d1-9018-7f3af59e35e2' ) isa has-cast has billing-number 40;
 (  actor '010f892d-8b22-47a6-8469-065e3872809a', production-with-cast 'fa1c69fd-e97f-44d1-9018-7f3af59e35e2' , character-being-played 'b9911eda-1964-46d7-bc0a-877126c7e68e' ) isa has-cast;
 (  actor '02880119-a854-406b-b78c-27f4796b8e6f', character-being-played 'b33021fe-b755-4665-a960-0423da399b78' , production-with-cast '5c1f14fa-f6b9-4194-a74e-9795c8b9c146' ) isa has-cast has billing-number 5;
